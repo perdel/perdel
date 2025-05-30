@@ -1,4 +1,3 @@
-# hello-world
-Hello world project
+### Hi there 👋!
 
-Just some arbitrary changes to have something different.
+I'm Delwin Perera, a computational materials scientist from Germany.
