@@ -6,4 +6,4 @@ I'm Delwin Perera, a computational materials scientist from Germany.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=perdel&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=perdel&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
